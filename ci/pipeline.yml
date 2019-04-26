@@ -3,8 +3,8 @@ resources:
 - name: src
   type: git
   source:
-    repo: daniellavoie/rabbitmq-multisite
-    uri: https://github.com/daniellavoie/rabbitmq-multisite.git
+    repo: doddatpivotal/rabbitmq-multisite
+    uri: https://github.com/doddatpivotal/rabbitmq-multisite.git
 
 jobs:
 - name: deploy-apps

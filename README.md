@@ -60,8 +60,6 @@ region-3-username:           # my-user
 region-3-password:           # *******
 transaction-datasource-jdbc: # jdbc:mysql://HOSTNAME:PORT/DB_NAME?user=USERNAME&password=PASSWORD
 
-github-uri:                  # https://github.com/daniellavoie/rabbitmq-multisite.git
-
 region-1-consumer-url:       # https://rabbitmq-multisite-consumer-region-1.apps.TLD-DOMAIN
 region-2-consumer-url:       # https://rabbitmq-multisite-consumer-region-2.apps.TLD-DOMAIN
 region-1-producer-url:       # https://rabbitmq-multisite-producer-region-1.apps.TLD-DOMAIN
