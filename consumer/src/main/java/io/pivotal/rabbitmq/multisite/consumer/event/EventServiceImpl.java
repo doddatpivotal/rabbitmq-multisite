@@ -60,7 +60,7 @@ public class EventServiceImpl implements EventService {
 			stream.forEach(this::generateTransaction);
 		}
 
-		LOGGER.info("Event recovery completed.ﬂØæ");
+		LOGGER.info("Event recovery completed");
 	}
 
 	public interface EventSink {

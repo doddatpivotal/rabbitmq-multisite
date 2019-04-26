@@ -68,7 +68,7 @@ region-1-producer-url:       # https://rabbitmq-multisite-producer-region-1.apps
 region-2-producer-url:       # https://rabbitmq-multisite-producer-region-2.apps.TLD-DOMAIN
 
 region-1-broker-vhost:       # d36cf216-e483-4ba4-a45e-134046338598
-region-2-broker-vbost:       # 11f683ac-3104-42f5-8bd1-9933b8b03db8
+region-2-broker-vhost:       # 11f683ac-3104-42f5-8bd1-9933b8b03db8
 region-1-broker-uri:         # amqp://65d6c23d-4a3f-4eec-921b-dfaada057d93:************@X.X.X.X/d36cf216-e483-4ba4-a45e-134046338598
 region-2-broker-uri:         # amqp://ebd1fb9d-2556-4c1f-a009-36566ff61d3a:************@X.X.X.X/11f683ac-3104-42f5-8bd1-9933b8b03db8
 region-1-broker-http-uri:    # https://65d6c23d-4a3f-4eec-921b-dfaada057d93:************@rmq-d36cf216-e483-4ba4-a45e-134046338598.sys.TLD-DOMAIN/api/
